@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.arash.altafi.retrofit.java.JavaActivity
 import com.arash.altafi.retrofit.kotlin.KotlinActivity
-import com.google.android.material.button.MaterialButton
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
