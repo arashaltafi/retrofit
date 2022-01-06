@@ -8,6 +8,8 @@ import com.arash.altafi.retrofit.kotlin.KotlinActivity
 import com.google.android.material.button.MaterialButton
 import kotlinx.android.synthetic.main.activity_main.*
 
+// Arash Altafi
+
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
