@@ -10,6 +10,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 // Arash Altafi
 // new new
+// new new new 
 
 class MainActivity : AppCompatActivity() {
 
